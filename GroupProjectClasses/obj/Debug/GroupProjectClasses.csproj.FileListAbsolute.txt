@@ -1,0 +1,14 @@
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\GroupProjectClasses\GroupProjectClasses\bin\Debug\GroupProjectClasses.exe.config
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\GroupProjectClasses\GroupProjectClasses\bin\Debug\GroupProjectClasses.exe
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\GroupProjectClasses\GroupProjectClasses\bin\Debug\GroupProjectClasses.pdb
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\GroupProjectClasses\GroupProjectClasses\obj\Debug\GroupProjectClasses.csprojResolveAssemblyReference.cache
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\GroupProjectClasses\GroupProjectClasses\obj\Debug\GroupProjectClasses.csproj.CoreCompileInputs.cache
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\GroupProjectClasses\GroupProjectClasses\obj\Debug\GroupProjectClasses.exe
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\GroupProjectClasses\GroupProjectClasses\obj\Debug\GroupProjectClasses.pdb
+C:\Users\eritral\Desktop\1.5 Years\Projects\GroupProjectClasses\GroupProjectClasses\bin\Debug\GroupProjectClasses.exe.config
+C:\Users\eritral\Desktop\1.5 Years\Projects\GroupProjectClasses\GroupProjectClasses\bin\Debug\GroupProjectClasses.exe
+C:\Users\eritral\Desktop\1.5 Years\Projects\GroupProjectClasses\GroupProjectClasses\bin\Debug\GroupProjectClasses.pdb
+C:\Users\eritral\Desktop\1.5 Years\Projects\GroupProjectClasses\GroupProjectClasses\obj\Debug\GroupProjectClasses.csprojResolveAssemblyReference.cache
+C:\Users\eritral\Desktop\1.5 Years\Projects\GroupProjectClasses\GroupProjectClasses\obj\Debug\GroupProjectClasses.csproj.CoreCompileInputs.cache
+C:\Users\eritral\Desktop\1.5 Years\Projects\GroupProjectClasses\GroupProjectClasses\obj\Debug\GroupProjectClasses.exe
+C:\Users\eritral\Desktop\1.5 Years\Projects\GroupProjectClasses\GroupProjectClasses\obj\Debug\GroupProjectClasses.pdb

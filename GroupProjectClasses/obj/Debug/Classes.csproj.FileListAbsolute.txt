@@ -1,0 +1,7 @@
+C:\Users\eritral\Desktop\1.5 Years\Projects\GroupProjectClasses\GroupProjectClasses\bin\Debug\Classes.exe.config
+C:\Users\eritral\Desktop\1.5 Years\Projects\GroupProjectClasses\GroupProjectClasses\bin\Debug\Classes.exe
+C:\Users\eritral\Desktop\1.5 Years\Projects\GroupProjectClasses\GroupProjectClasses\bin\Debug\Classes.pdb
+C:\Users\eritral\Desktop\1.5 Years\Projects\GroupProjectClasses\GroupProjectClasses\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\eritral\Desktop\1.5 Years\Projects\GroupProjectClasses\GroupProjectClasses\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\eritral\Desktop\1.5 Years\Projects\GroupProjectClasses\GroupProjectClasses\obj\Debug\Classes.exe
+C:\Users\eritral\Desktop\1.5 Years\Projects\GroupProjectClasses\GroupProjectClasses\obj\Debug\Classes.pdb
